@@ -6,3 +6,4 @@ sade = float(sade_str)
 pinta_ala = math.pi * sade ** 2
 print(pinta_ala)
 
+
